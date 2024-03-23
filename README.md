@@ -6,7 +6,7 @@ Computer Engineering Student
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [cayirtepeahmetfurkan@gmail.com](mailto:cayirtepeahmetfurkan@gmail.com)
-* 🧠  I'm learning SQL , Python , HTML , CSS
+* 🧠  I'm currently learning SQL , Python , HTML , CSS
 
 ### Skills
 
