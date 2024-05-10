@@ -6,7 +6,7 @@ Computer Engineering Student
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [cayirtepeahmetfurkan@gmail.com](mailto:cayirtepeahmetfurkan@gmail.com)
-* 🧠  I'm currently learning python ![image](https://github.com/KrAlmano/KrAlmano/assets/108956570/876f5662-aab5-488b-a5e4-33bb9f22cfff)
+* 🧠  I'm currently learning python
 
 
 ### Skills
